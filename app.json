@@ -24,10 +24,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.coolheaded.languageTranslate"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "bf533aba-badd-48f2-95f1-2c47aef05649"
+      }
     }
   }
 }
